@@ -1,5 +1,5 @@
 ### Hi stranger 👋
-
+![](tenor.gif)
 - 🔭 Working at SelfPoint Sverige AB
 ## My current stack:
 - 👨‍💻 ReactJS
