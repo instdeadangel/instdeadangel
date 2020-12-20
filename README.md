@@ -13,6 +13,8 @@
 - 📋 C#
 - 📋 CMS (WordPress – Elementor)
 - 📋 jQuerry
+- 📋 Angular
+- 📋 VueJS
 - 📋 Debian Server
 ## Would like to learn
 - 📚 Docker & kubernetes
