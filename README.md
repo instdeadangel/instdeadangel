@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi stranger 👋
 
-<!--
-**instdeadangel/instdeadangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Working at SelfPoint Sverige AB
+## My current stack:
+- 👨‍💻 ReactJS
+- 👨‍💻 NodeJS
+- 👨‍💻 JavaScript
+- 👨‍💻 HTML & CSS
+- 👨‍🎨 UX Design
+## Have worked with
+- 📋 .NET
+- 📋 PHP
+- 📋 C#
+- 📋 CMS (WordPress – Elementor)
+- 📋 jQuerry
+- 📋 Debian Server
+## Would like to learn
+- 📚 Docker & kubernetes
+- 📚 Swift
+- 📚 Python
+## Other information 😸
+- 😻 Love animals
+- 📫 How to reach me: 513dragan@gmail.com && instdeadangel@gmail.com
+- 😄 Pronouns: Russian, Swedish, English
+- ⚡ Fun fact: Sent more than 200 job applications in latest 6 months
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
