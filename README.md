@@ -15,6 +15,8 @@
 - 📋 jQuerry
 - 📋 Angular
 - 📋 VueJS
+- 📋 Bootstrap 4
+- 📋 TypeScript
 - 📋 Debian Server
 ## Would like to learn
 - 📚 Docker & kubernetes
