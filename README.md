@@ -18,6 +18,8 @@
 - 📋 Bootstrap 4
 - 📋 TypeScript
 - 📋 Debian Server
+- 📋 MySQL
+- 📋 GraphQL
 ## Would like to learn
 - 📚 Docker & kubernetes
 - 📚 Swift
