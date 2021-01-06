@@ -7,6 +7,7 @@
 - 👨‍💻 JavaScript
 - 👨‍💻 HTML & CSS
 - 👨‍🎨 UX Design
+- 🔥 Firebase
 ## Have worked with
 - 📋 .NET
 - 📋 PHP
