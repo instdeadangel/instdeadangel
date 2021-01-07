@@ -4,7 +4,10 @@
 ## My current stack:
 - 👨‍💻 ReactJS
 - 👨‍💻 NodeJS
+- 👨‍💻 Express
+- 👨‍💻 MongoDB
 - 👨‍💻 JavaScript
+- 👨‍💻 Redux
 - 👨‍💻 HTML & CSS
 - 👨‍🎨 UX Design
 - 🔥 Firebase
