@@ -32,5 +32,5 @@
 - 😻 Love animals
 - 📫 How to reach me: 513dragan@gmail.com && instdeadangel@gmail.com
 - 😄 Pronouns: Russian, Swedish, English
-- ⚡ Fun fact: Sent more than 200 job applications in latest 6 months
+- ⚡ Fun fact: React is not so fast as you think 
 
